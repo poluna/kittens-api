@@ -1,0 +1,5 @@
+.root {
+    -fx-background-image: url("hearts.jpg");
+    -fx-background-size: contain;
+    -fx-background-repeat: no-repeat;
+}
